@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d19a543-08ae-4917-a5ff-5a71eb4f5b3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/preprocessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summarizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/summarize_news.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsProvider.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsProvider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aNZfVoWKQAZuJFYpie3GV3K5Z6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../news_collector" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Summarizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="summarizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\dinus\PycharmProjects\summarizer\summarize_news.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Summarizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d19a543-08ae-4917-a5ff-5a71eb4f5b3b" name="Default Changelist" comment="" />
+      <created>1586578115345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586578115345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="381" y="242" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586581126454">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="381" y="242" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1504.963@0.0.1504.963" timestamp="1586581126454" />
+    <state x="463" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586651375651">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="463" y="103" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1504.963@0.0.1504.963" timestamp="1586651375651" />
+    <state x="481" y="261" key="FileChooserDialogImpl" timestamp="1587264384891">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="481" y="261" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1587264384891" />
+    <state width="1383" height="241" key="GridCell.Tab.0.bottom" timestamp="1587192387499">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1383" height="241" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1587192387499" />
+    <state width="1383" height="241" key="GridCell.Tab.0.center" timestamp="1587192387498">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1383" height="241" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1587192387498" />
+    <state width="1383" height="241" key="GridCell.Tab.0.left" timestamp="1587192387498">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1383" height="241" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1587192387498" />
+    <state width="1383" height="241" key="GridCell.Tab.0.right" timestamp="1587192387499">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1383" height="241" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1587192387499" />
+    <state x="202" y="151" key="SettingsEditor" timestamp="1586581429551">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="202" y="151" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1586581429551" />
+    <state x="372" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1586654172332">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="372" y="244" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1586654172332" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+requests
+bs4
+lxml
+numpy
+regex
+gensim
+nltk
+networkx
